@@ -1,7 +1,8 @@
 # Site_HTML-CSS
 Trabalho de Faculdade
-## Sobre o Projeto
+
 Trabalho de Experiência Criativa: Navegando Pelos Sitemas de Informação
+## Sobre o Projeto
 Um portfólio simples, feito somente com HTML e CSS 
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura básica da página.
