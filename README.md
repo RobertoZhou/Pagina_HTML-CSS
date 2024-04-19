@@ -1,9 +1,8 @@
 # Site_HTML-CSS
-
-Este projeto foi criado como parte da minha atividade acadêmica na faculdade e representa uma coleção dos meus trabalhos e projetos pessoais.
+Trabalho de Faculdade
 ## Sobre o Projeto
-Este site de portfólio é uma simples página HTML
+Trabalho de Experiência Criativa: Navegando Pelos Sitemas de Informação
+Um portfólio simples, feito com HTML e CSS 
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura básica da página.
 - **CSS3**: Estilização e design responsivo.
-- **JavaScript**: Funcionalidades interativas.
